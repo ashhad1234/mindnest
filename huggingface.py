@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define model IDs
 fine_tuned_model = "ft:gpt-4o-mini-2024-07-18:personal:friend:AO73jIic:ckpt-step-1002"  # Replace with your fine-tuned model's ID
